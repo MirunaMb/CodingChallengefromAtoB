@@ -1,0 +1,104 @@
+body {
+    background-image:
+        url(/Users/miruna-maricelaburuiana/Documents/compitoLim/background.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    color: white;
+    position: relative;
+}
+
+.layover {
+
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+}
+
+.quadrato1 {
+    background-color: #FFAE42;
+    width: 400px;
+    height: 30px;
+    font-size: 100px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.monopattino {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.via {
+    font-size: 20px;
+}
+
+.row1 {
+    margin: 20px 0;
+}
+
+.row2 {
+    margin-top: 5px;
+}
+
+.quadrato2 {
+    background-color: #32CD32;
+    width: 700px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.quadrato3 {
+    background-color: #DC143C;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.logo {
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+}
+
+.logo-text {
+    display: block;
+    font-size: 30px;
+    text-align: center;
+    color: #32CD32;
+    padding: 10px;
+}
+
+.squaregreen {
+    height: 50px;
+    border-radius: 10px;
+    background-color: #00FF00;
+    text-align: center;
+}
+
+.button {
+    line-height: 50px;
+    margin-inline: 10px;
+}
+
+button {
+    padding: 2px 4px;
+}
+
